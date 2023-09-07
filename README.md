@@ -1,5 +1,4 @@
-# **CMD Enjoyer**
-Creating Batch files, debloats and tweaks. All for fun & learning.
+![logoprofile](https://github.com/gzmatte/gzmatte/assets/117684932/1741d89f-8e52-42e7-9624-dc4db415eb64)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzmatte)](https://github.com/anuraghazra/github-readme-stats)
 
