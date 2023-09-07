@@ -1,4 +1,4 @@
-![Logo](https://github.com/gzmatte/gzmatte/assets/117684932/d17104f1-4fc9-4d13-9da2-ab454680c1c5)
+![Logo](https://github.com/gzmatte/gzmatte/assets/117684932/f8066da6-b897-4b56-bd12-0c3b33a64ed1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzmatte)](https://github.com/anuraghazra/github-readme-stats)
 
