@@ -1,34 +1,4 @@
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-
-
-
-
-
-
-
-
-
-
-
-
+![logo1](https://github.com/gzmatte/gzmatte/assets/117684932/13d41d2d-746f-4781-952c-896f0a53ff4c)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzmatte)](https://github.com/anuraghazra/github-readme-stats)
 
