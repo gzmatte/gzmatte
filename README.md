@@ -2,3 +2,4 @@
 
 [<img src="[https://github-production-user-asset-6210df.s3.amazonaws.com/117684932/266586043-0e2b6799-d9f9-4a70-b8b3-050042a9a3f1.png">](http://example.com/)
 
+[<img src="img/myImage.png">](http://example.com/)
