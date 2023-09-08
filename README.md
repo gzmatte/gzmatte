@@ -9,6 +9,7 @@
 ![OpenShell](https://github.com/gzmatte/gzmatte/assets/117684932/23020859-3471-433a-83b2-4fb8cc70cd2f)
 ![Sonar](https://github.com/gzmatte/gzmatte/assets/117684932/430a4100-da84-461e-9a91-2bb12d26736a)
 ![photos](https://github.com/gzmatte/gzmatte/assets/117684932/c65017cd-b48c-4a63-a0b2-f599d57d317b)
+![web](https://github.com/gzmatte/gzmatte/assets/117684932/a67c0033-39f5-419e-9bf7-fef81eed0dc4)
 
 
 
