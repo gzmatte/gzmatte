@@ -4,12 +4,11 @@
 
 ![NVIDIA](https://github.com/gzmatte/gzmatte/assets/117684932/0d19dfbd-987a-4f80-b662-3ab94678b2d9)
 ![AMD2](https://github.com/gzmatte/gzmatte/assets/117684932/c48d8a52-5eed-4c26-a8bf-3292101f32c5)
-![Drivers](https://github.com/gzmatte/gzmatte/assets/117684932/8b7506a9-e4a7-41a5-93ac-72f51eba8b2e)
+![DriversMayus](https://github.com/gzmatte/gzmatte/assets/117684932/f1f56198-8b1d-4e86-a214-4585c610f1b1)
 ![ATR](https://github.com/gzmatte/gzmatte/assets/117684932/30d95cbf-139c-4bcd-9254-362d1597e2b9)
-![OpenShell](https://github.com/gzmatte/gzmatte/assets/117684932/4779413a-b7af-4238-b493-81428545eabc)
-![Sonar](https://github.com/gzmatte/gzmatte/assets/117684932/7fd7dbb2-6434-41e3-a606-0f3f77485eab)
-![photos](https://github.com/gzmatte/gzmatte/assets/117684932/8561df0f-b1ab-478c-92fc-7b51c0a41d1e)
-
+![OpenShellM](https://github.com/gzmatte/gzmatte/assets/117684932/3549d09d-d4a9-407a-b496-18cc8d3b35a0)
+![SonarM](https://github.com/gzmatte/gzmatte/assets/117684932/148f1799-e541-46ba-9d2d-f3c9bd0ee073)
+![photosM](https://github.com/gzmatte/gzmatte/assets/117684932/28b4177e-f4bb-434c-a256-204de8fd32c3)
 
 
 
