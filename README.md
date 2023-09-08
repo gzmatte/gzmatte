@@ -2,7 +2,7 @@
 
 ![logo1](https://github.com/gzmatte/gzmatte/assets/117684932/0769bd7e-1aa4-4cd1-8db4-2619885b21aa)
 
-![PROJECTO-PERFIL](https://github.com/gzmatte/gzmatte/assets/117684932/bcec59b7-449c-4c6c-89e3-b74634c3b2a9)
+![PROJECTO-PERFIL2](https://github.com/gzmatte/gzmatte/assets/117684932/59d8ad62-83f4-4643-95d9-bc7da3d3e6f6)
 
 
 
