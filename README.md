@@ -4,6 +4,7 @@
 
 ![PROJECTO](https://github.com/gzmatte/gzmatte/assets/117684932/e04af4cc-db21-46b2-b9f5-44670a6005b2)
 
+![PlantillaShort](https://github.com/gzmatte/gzmatte/assets/117684932/2887cc43-fb11-4ec6-bd5b-48c613a38107)
 
 
 
