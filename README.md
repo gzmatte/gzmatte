@@ -8,6 +8,7 @@
 [<img src="https://github.com/gzmatte/trash/blob/main/0OpenShell.png">](https://github.com/gzmatte/Mini-Shell)
 [<img src="https://github.com/gzmatte/trash/blob/main/0Sonar.png">](https://github.com/gzmatte/Sonar)
 [<img src="https://github.com/gzmatte/trash/blob/main/0photos.png">](https://github.com/gzmatte/ms-photos)
+[<img src="https://github.com/gzmatte/trash/blob/main/0STR.png">](https://github.com/gzmatte/STR)
 [<img src="https://github.com/gzmatte/trash/blob/main/0web2.png">](https://gzmatte.github.io/)
 
 
