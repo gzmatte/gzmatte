@@ -10,6 +10,4 @@
 [<img src="https://github.com/gzmatte/trash/blob/main/0photos.png">](https://github.com/gzmatte/ms-photos)
 [<img src="https://github.com/gzmatte/trash/blob/main/0STR.png">](https://github.com/gzmatte/STR)
 [<img src="https://github.com/gzmatte/trash/blob/main/0web2.png">](https://gzmatte.github.io/)
-[<img src="https://github.com/gzmatte/trash/blob/main/0Download.png">](https://gzmatte.github.io/)
-
-<!-- [<img src="[https://github.com/gzmatte/trash/blob/main/0Download.png">](LINK)  -->
+<!--     [<img src="https://github.com/gzmatte/trash/blob/main/0Download.png">](https://gzmatte.github.io/)   -->
