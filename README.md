@@ -3,6 +3,7 @@
 [<img src="https://github.com/gzmatte/trash/blob/main/0ATR.png">](https://github.com/gzmatte/ATR)
 [<img src="https://github.com/gzmatte/trash/blob/main/0spotify1.png">](https://github.com/gzmatte/Spotify)
 [<img src="https://github.com/gzmatte/trash/blob/main/0spotify2.png">](https://github.com/gzmatte/Spotify)
+[<img src="https://github.com/gzmatte/trash/blob/main/0spotify3.png">](https://github.com/gzmatte/Spotify)
 [<img src="https://github.com/gzmatte/trash/blob/main/0NVIDIA.png">](https://github.com/gzmatte/NVIDIA)
 [<img src="https://github.com/gzmatte/trash/blob/main/0AMD.png">](https://github.com/gzmatte/AMD)
 [<img src="https://github.com/gzmatte/trash/blob/main/0OpenShell.png">](https://github.com/gzmatte/Mini-Shell)
